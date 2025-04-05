@@ -1,11 +1,11 @@
-## Hi there 👋
+## Yo! 👋
 
-👋 Hi, I'm Sibi Mughil ☀️ | CBNamikaze 🌙 <br>
-🎖️ Full Stack Developer | GenAI Enthusiast | Aspiring Polymath <br>
-💻 Python | React | AWS | LLMs <br>
-⚡ I love building intelligent, scalable, and impactful tech solutions <br>
-🧠 Passionate about tech, science, and lifelong learning <br>
-📍 Based in Chennai 
+### 👋 Hi, I'm Sibi Mughil ☀️ | CBNamikaze 🌑 <br>
+### 🎖️ Full Stack Developer | GenAI Enthusiast | Aspiring Polymath <br>
+### 💻 Python | React | AWS | LLMs <br>
+### ⚡ I love building intelligent, scalable, and impactful tech solutions <br>
+### 🧠 Passionate about tech, science, and lifelong learning <br>
+### 📍 Based in Chennai 
 
 <!--
 **CBNamikaze/CBNamikaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
