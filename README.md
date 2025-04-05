@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-👋 Hi, I'm Sibi Mughil ☀️ | CBNamikaze 🌙 
-🎖️ Full Stack Developer | GenAI Enthusiast | Aspiring Polymath 
-💻 Python | React | AWS | LLMs 
-⚡ I love building intelligent, scalable, and impactful tech solutions 
-🧠 Passionate about tech, science, and lifelong learning 
+👋 Hi, I'm Sibi Mughil ☀️ | CBNamikaze 🌙 <br>
+🎖️ Full Stack Developer | GenAI Enthusiast | Aspiring Polymath <br>
+💻 Python | React | AWS | LLMs <br>
+⚡ I love building intelligent, scalable, and impactful tech solutions <br>
+🧠 Passionate about tech, science, and lifelong learning <br>
 📍 Based in Chennai 
 
 <!--
